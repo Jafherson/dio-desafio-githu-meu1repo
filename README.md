@@ -1,2 +1,2 @@
 # dio-desafio-githu-meu1repo
-Desafio de projeto sobre git/github
+positorio criado para o Desafio de projeto sobre git/github
